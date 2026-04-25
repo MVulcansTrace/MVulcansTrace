@@ -4,6 +4,8 @@ Cybersecurity BPS | CEH | Aspiring security analyst focused on SOC workflows, th
 
 I build practical cybersecurity projects to demonstrate hands-on analysis, engineering discipline, and clear technical communication.
 
+Contact: [michaelfaragalla2225@gmail.com](mailto:michaelfaragalla2225@gmail.com)
+
 ## Featured Project
 
 ### [VulcansTrace-Windows](https://github.com/MVulcansTrace/VulcansTrace-Windows)
